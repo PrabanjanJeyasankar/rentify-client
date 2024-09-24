@@ -1,11 +1,6 @@
 # Rentify Frontend
 Welcome to the Rentify Frontend! Rentify is a real estate platform designed to streamline the process for both buyers and sellers. This repository contains the frontend code, providing an intuitive and user-friendly interface for property management and search functionalities.
 
-## GitHub 
-
-- *Frontend*: https://github.com/PrabanjanJeyasankar/rentify-presidio-task/client
-- *Backend*: https://github.com/PrabanjanJeyasankar/rentify-presidio-task/server
-
 ## Features
 
 - *User Registration and Login*: Secure and intuitive signup and login forms.
